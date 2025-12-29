@@ -1,16 +1,9 @@
-# Rubpay Quake Log Parser
+# NestJS Quake Log Parser
 
 API desenvolvida em NestJS para analisar logs do jogo Quake e extrair estatísticas de partidas.
 
 ## Apresentação em vídeo:
 https://www.youtube.com/watch?v=MIy8xsAF1oU
-
-## Abordagens escolhidas para o desafio:
-[ROADMAP.md](./ROADMAP.md)
-
-## Projeto disponível em produção ✅
-
-Para facilitar os testes, a collection do Postman já está configurada com o ambiente de produção em http://quake-logs.ddns.net/. Assim, você pode testar a API de forma rápida sem necessidade de setup no seu ambiente local!
 
 ## Funcionalidades do projeto
 
